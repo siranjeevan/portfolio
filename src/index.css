@@ -1,0 +1,9 @@
+@import "tailwindcss";
+/* body {
+  min-height: 100vh;
+  background: linear-gradient(to bottom right , #15001b 35%, #ad48b2);
+  margin: 0;
+  font-family :'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+} */
+/* {//background: linear-gradient(to bottom right , #15001b 35%, #ad48b2);}
+        {/* <div className="w-full h-full bg-gradient-to-br from-[#15001b] via-[#15001b] to-[#ad48b2] py-5"> */ 

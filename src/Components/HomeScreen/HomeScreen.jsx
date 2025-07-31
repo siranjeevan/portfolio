@@ -1,0 +1,32 @@
+import Content from "./Content.jsx"
+import HeaderScreen from "../Header/main/HeaderScreen.jsx";
+import ImageLayout from "./ImageLayout.jsx";
+import ButtonNavigate from "./ButtonNavigate.jsx";
+import ContentLayout from "./ContentLayout.jsx";
+import SocialMediaIcon from "./SocialMediaIcon.jsx";
+import DownButton from "../DownButton.jsx/DownButton.jsx";
+import HomeScreenLayout from "./HomeScreenLayout.jsx";
+
+function HomeScreen()
+{
+    return(
+        <>
+            <HomeScreenLayout>
+                <HeaderScreen />
+                <div className="flex flex-row">
+                <div className="flex flex-col">
+                    <ContentLayout>
+                        <Content />
+                        <ButtonNavigate />
+                        <SocialMediaIcon />
+                        <DownButton />
+                    </ContentLayout>
+                </div>
+                {/* <ImageLayout /> */}
+                </div>
+            </HomeScreenLayout>
+        {/* </div> */}
+        </>
+    );
+}
+export default HomeScreen;
