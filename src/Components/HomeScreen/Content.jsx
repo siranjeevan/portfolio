@@ -5,8 +5,8 @@ function Content(){
             text-[10px]
             sm:text-[10px]
             md:text-[12px]
-            lg:text-[18px]
-            xl:text-[20px]
+            lg:text-[13px]
+            xl:text-[15px]
             2xl:text-[30px] ">WELCOME TO MY WORLD 🌟</h2>
 
             <h1 className="text-[35px] 
@@ -29,7 +29,7 @@ function Content(){
             lg:text-[45px]
             xl:text-[40px]
             2xl:text-[60px]
-            "> Name </span> </span></h1>
+            "> Jeevith </span> </span></h1>
 
 
             <h1 className="font-bold text-[23px]
@@ -46,10 +46,10 @@ function Content(){
             xl:text-[50px]
             2xl:text-[80px]
              font-serif">FRONTEND </span>Developer</h1> 
-            <p className="w-80 text-[8px]
-            sm:w-102 sm:text-[12px]
-            lg:w-150 lg:text-[13px]
-            xl:w-210 xl:text-[15px]
+            <p className="w-80 text-[7px]
+            sm:w-102 sm:text-[8px]
+            lg:w-130 lg:text-[10px]
+            xl:w-180 xl:text-[13px]
             2xl:w-350 2xl:text-[25px]
             ">I craft beautiful, fast, and reliable mobile apps using Flutter. From pixel-perfect UI to seamless user experience, I bring ideas to life on both Android and iOS — with one codebase. Whether it's a startup MVP or a full-scale product, I build apps that users love. Always focused on clean code, performance, and future scalability.</p>
         </>

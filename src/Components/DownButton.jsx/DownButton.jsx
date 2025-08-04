@@ -1,12 +1,14 @@
 function DownButton(){
     return(
         <>
-            <div className=" flex justify-center 
-
-            xl:ml-150 xl:mt-15">
+            <div className=" flex justify-center
+            
+            sm:ml-50 sm:mt-10
+            md:ml-70 md:mt-10
+            lg:ml-100 lg:mt-15
+            xl:ml-140 xl:mt-15">
                 <button className="bg-gradient-to-b from-white to-[#a12eab] rounded-full p-1">
-                    <img src="/DownArrow.png" className="
-                    h-11" />
+                    <img src="/DownArrow.png" className=" sm:h-7 md:h-7 lg:h-10 xl:h-11" />
                 </button>
             </div>
         </>

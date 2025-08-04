@@ -22,7 +22,7 @@ function HomeScreen()
                         <DownButton />
                     </ContentLayout>
                 </div>
-                {/* <ImageLayout /> */}
+                <ImageLayout />
                 </div>
             </HomeScreenLayout>
         {/* </div> */}
