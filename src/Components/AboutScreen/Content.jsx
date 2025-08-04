@@ -1,7 +1,7 @@
 function Content(){
     return(
         <>
-        <div className="flex flex-col justify-center items-start w-full h-full mr-10 -mt-10">
+        <div className="flex flex-col justify-center items-start w-full h-full mr-10 -mt-5">
             <p className="text-[15px] w-190 font-bold ">
             Welcome to my portfolio!
             I'm Jeevith, a passionate Flutter Developer crafting sleek, high-performance mobile apps that run beautifully on both Android and iOS. With over 2 years of experience, I specialize in building responsive UIs and integrating backend services using Flutter, Dart, Firebase, and REST APIs.
