@@ -6,6 +6,7 @@ import ContentLayout from "./ContentLayout.jsx";
 import SocialMediaIcon from "./SocialMediaIcon.jsx";
 import DownButton from "../DownButton.jsx/DownButton.jsx";
 import HomeScreenLayout from "./HomeScreenLayout.jsx";
+import About from '../AboutScreen/AboutScreen.jsx';
 
 function HomeScreen()
 {
@@ -19,12 +20,13 @@ function HomeScreen()
                         <Content />
                         <ButtonNavigate />
                         <SocialMediaIcon />
-                        <DownButton />
                     </ContentLayout>
                 </div>
                 <ImageLayout />
                 </div>
+                <DownButton />
             </HomeScreenLayout>
+            <About />
         {/* </div> */}
         </>
     );

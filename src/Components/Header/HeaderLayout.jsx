@@ -1,6 +1,6 @@
 function HeaderLayout({children}){
     return(
-        <div className="w-screen flex justify-center items-center">
+        <div className="w-screen flex justify-center items-center scroll-fixed top-0 left-0 z-50 ">
             <div className="
                     w-80 h-13 mt-3 rounded-[20px] 
                     sm:w-150 sm:h-15 sm:rounded-[25px]
@@ -12,7 +12,6 @@ function HeaderLayout({children}){
                     shadow-lg
                     text-black font-semibold
                     bg-[rgba(173,72,178,0.3)] " >
-
                     {children}
                 </div>
 
