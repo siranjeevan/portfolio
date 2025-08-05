@@ -1,6 +1,6 @@
 function ServicesPageLayout({ children }) {
   return (
-    <div className="w-auto h-180 bg-radial-[at_300%_55%] from-[#e302ef] to-[#15001b]">
+    <div className="w-auto h-170 bg-radial-[at_300%_55%] from-[#e302ef] to-[#15001b]">
              <div className="relative w-full h-screen overflow-hidden">
 
         <div

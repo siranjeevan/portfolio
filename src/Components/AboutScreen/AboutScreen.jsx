@@ -15,6 +15,7 @@ function AboutScreen() {
                     </div>
                 </div>
                 <DownButton />
+                <hr className="hr-with-dot" />
             </Layout>
         </>
     );

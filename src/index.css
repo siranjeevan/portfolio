@@ -17,3 +17,13 @@
 .scroll-hide::-webkit-scrollbar {
   display: none; 
 }
+
+.hr-with-dot {
+  position: relative;
+  height: 2px;
+  background: linear-gradient(to right, transparent, rgb(255, 0, 234), transparent);
+  border: none;
+  margin: 40px auto;
+  width: 90%;
+}
+
