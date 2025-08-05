@@ -19,7 +19,7 @@ function ServicesCardGroup({ children }) {
         <div className="relative w-300">
             <div
                 ref={scrollRef}
-                className="flex flex-row overflow-x-auto whitespace-nowrap gap-10 snap-x snap-mandatory scroll-smooth px-10 scroll-hide mb-10"
+                className="flex flex-row overflow-x-auto  gap-10 snap-x snap-mandatory scroll-smooth px-10 scroll-hide mb-10"
             >
                 {children}
             </div>
