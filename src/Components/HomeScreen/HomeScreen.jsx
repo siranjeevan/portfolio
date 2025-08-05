@@ -8,6 +8,7 @@ import DownButton from "../DownButton.jsx/DownButton.jsx";
 import HomeScreenLayout from "./HomeScreenLayout.jsx";
 import About from '../AboutScreen/AboutScreen.jsx';
 import ServiceScreen from "../Service/ServiceScreen.jsx";
+import ProJectsScreen from "../Projects/ProjectScreen.jsx";
 
 function HomeScreen()
 {
@@ -29,6 +30,7 @@ function HomeScreen()
             </HomeScreenLayout>
             <About />
             <ServiceScreen />
+            <ProJectsScreen />
         {/* </div> */}
         </>
     );

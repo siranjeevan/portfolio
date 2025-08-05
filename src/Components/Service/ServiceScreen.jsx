@@ -6,10 +6,7 @@ function ServiceScreen(){
         <>
             <ServicesPageLayout>
                 <ServicesCardGroup>
-                    <ServicesCard path="/Flutter.png" ServiceTitle="App Development" ServiceText= "Crafting high-performance,
-                    scalable apps with a single codebase for Android, iOS, and Web." />
-                    <ServicesCard path="/UIUX.png" ServiceTitle="UI / UX" ServiceText= " Designing pixel-perfect and intuitive
-                     user interfaces that enhance engagement and usability."/>
+                    <ServicesCard path="/UIUX.png" ServiceTitle="UI / UX" ServiceText= " Designing pixel-perfect and intuitive user interfaces that enhance engagement and usability." />
                     <ServicesCard path="/Fire.png" ServiceTitle="Firebase" ServiceText="Connecting your app to powerful backend
                      services like Firebase, REST APIs, and cloud storage." />
                     <ServicesCard path="/Performance2.png" ServiceTitle="Performance Optimization"  ServiceText="Ensuring smooth
