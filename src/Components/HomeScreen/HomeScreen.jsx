@@ -7,6 +7,7 @@ import SocialMediaIcon from "./SocialMediaIcon.jsx";
 import DownButton from "../DownButton.jsx/DownButton.jsx";
 import HomeScreenLayout from "./HomeScreenLayout.jsx";
 import About from '../AboutScreen/AboutScreen.jsx';
+import ServiceScreen from "../Service/ServiceScreen.jsx";
 
 function HomeScreen()
 {
@@ -27,6 +28,7 @@ function HomeScreen()
                 <DownButton />
             </HomeScreenLayout>
             <About />
+            <ServiceScreen />
         {/* </div> */}
         </>
     );

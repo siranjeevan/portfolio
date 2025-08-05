@@ -7,3 +7,13 @@
 } */
 /* {//background: linear-gradient(to bottom right , #15001b 35%, #ad48b2);}
         {/* <div className="w-full h-full bg-gradient-to-br from-[#15001b] via-[#15001b] to-[#ad48b2] py-5"> */ 
+
+/* Hide scrollbar */
+
+.scroll-hide {
+  scrollbar-width: none;
+}
+
+.scroll-hide::-webkit-scrollbar {
+  display: none; 
+}
