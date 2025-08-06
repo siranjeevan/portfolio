@@ -10,6 +10,7 @@ import About from '../AboutScreen/AboutScreen.jsx';
 import ServiceScreen from "../Service/ServiceScreen.jsx";
 import ProJectsScreen from "../Projects/ProjectScreen.jsx";
 import TestimonialsScreen from "../Testimonials/TestimonialsScreen.jsx";
+import MentorScreen from "../Mentor/MentorScreen.jsx";
 
 function HomeScreen()
 {
@@ -33,6 +34,7 @@ function HomeScreen()
             <ServiceScreen />
             <ProJectsScreen />
             <TestimonialsScreen />
+            <MentorScreen />
         {/* </div> */}
         </>
     );

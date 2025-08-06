@@ -13,8 +13,6 @@ function TestimonialsCards({ path, testimonialText = "Testimonial Text", authorN
                 <p className="text-[rgba(255,255,255,0.6)] text-[12px]">{Post}</p>
             </div>
         </div>
-       
-        
     </div>
   );
 }

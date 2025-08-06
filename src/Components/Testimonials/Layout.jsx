@@ -1,7 +1,7 @@
 function Layout({children})
 {
     return(
-        <div className="w-auto h-180 bg-radial-[at_-50%_55%] from-[#ad48b2] via-[#15001b]  to-[#15001b]">
+        <div className="w-auto h-160 bg-radial-[at_-50%_55%] from-[#ad48b2] via-[#15001b]  to-[#15001b]">
              <div className="relative w-full h-screen overflow-hidden">
 
         <div
