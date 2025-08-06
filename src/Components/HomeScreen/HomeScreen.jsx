@@ -9,6 +9,7 @@ import HomeScreenLayout from "./HomeScreenLayout.jsx";
 import About from '../AboutScreen/AboutScreen.jsx';
 import ServiceScreen from "../Service/ServiceScreen.jsx";
 import ProJectsScreen from "../Projects/ProjectScreen.jsx";
+import TestimonialsScreen from "../Testimonials/TestimonialsScreen.jsx";
 
 function HomeScreen()
 {
@@ -31,6 +32,7 @@ function HomeScreen()
             <About />
             <ServiceScreen />
             <ProJectsScreen />
+            <TestimonialsScreen />
         {/* </div> */}
         </>
     );
