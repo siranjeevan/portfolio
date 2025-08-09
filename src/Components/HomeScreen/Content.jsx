@@ -29,7 +29,7 @@ function Content(){
             lg:text-[45px]
             xl:text-[40px]
             2xl:text-[60px]
-            "> Jeevith </span> </span></h1>
+            "> Likitha </span> </span></h1>
 
 
             <h1 className="font-bold text-[23px]
